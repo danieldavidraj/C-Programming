@@ -1,4 +1,4 @@
-# Mail Software
+# Email Software
 This is a project based on a simple email software developed using C language.
 ## C language concepts used :
 * File Handling
